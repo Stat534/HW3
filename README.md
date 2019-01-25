@@ -12,4 +12,4 @@ Select a point referenced data set for the midterm project. Then using this data
 
 #### b. (15 points)
 
-Follow the EDA steps outlined in class. You include commentary for each of the 5 parts, including the regression diagnostics.
+Follow the EDA steps outlined in class. Include commentary for each of the 5 parts, including the regression diagnostics.
